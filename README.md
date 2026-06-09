@@ -26,6 +26,7 @@ This project showcases my personal profile, skills, and contact information thro
 portfolio/
 │
 ├── index.html
+├── contact.html
 ├── style.css
 └── README.md
 ```
